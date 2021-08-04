@@ -8,15 +8,15 @@ Receiving inputs from the user (developer), this project should automatically ge
 
 ## Table of Content
 
-1. [Project Description](https://github.com/Brondchux/hw6-weather-dashboard#project-description)
-2. [Author Info](https://github.com/Brondchux/hw6-weather-dashboard#author-info)
-3. [User Story](https://github.com/Brondchux/hw6-weather-dashboard#user-story)
-4. [Acceptance Criteria](https://github.com/Brondchux/hw6-weather-dashboard#acceptance-criteria)
-5. [Mock-Up Preview](https://github.com/Brondchux/hw6-weather-dashboard#mock-up-preview)
-6. [Useful Links](https://github.com/Brondchux/hw6-weather-dashboard#useful-links)
-7. [Tech Stack](https://github.com/Brondchux/hw6-weather-dashboard#tech-stack)
-8. [Credits](https://github.com/Brondchux/hw6-weather-dashboard#credits)
-9. [Licence](https://github.com/Brondchux/hw6-weather-dashboard#licence)
+1. [Project Description](https://github.com/Brondchux/hw7-readme-generator#project-description)
+2. [Author Info](https://github.com/Brondchux/hw7-readme-generator#author-info)
+3. [User Story](https://github.com/Brondchux/hw7-readme-generator#user-story)
+4. [Acceptance Criteria](https://github.com/Brondchux/hw7-readme-generator#acceptance-criteria)
+5. [Mock-Up Preview](https://github.com/Brondchux/hw7-readme-generator#mock-up-preview)
+6. [Useful Links](https://github.com/Brondchux/hw7-readme-generator#useful-links)
+7. [Tech Stack](https://github.com/Brondchux/hw7-readme-generator#tech-stack)
+8. [Credits](https://github.com/Brondchux/hw7-readme-generator#credits)
+9. [Licence](https://github.com/Brondchux/hw7-readme-generator#licence)
 
 ---
 
@@ -26,7 +26,7 @@ Name: Gospel Chukwu
 
 Email: hello@gospelchukwu.com
 
-Portfolio: [www.gospelchukwu.com](https://gospelchukwu.com/portfolio)
+Portfolio: [www.gospelchukwu.com](https://brondchux.github.io/hw2-my-portfolio/)
 
 ---
 
@@ -74,8 +74,8 @@ COMING SOON!
 
 ## Useful Links
 
-1. 🗂 [Click me to view github repository for this project](https://github.com/Brondchux/hw6-weather-dashboard/)
-2. 🌍 [Click me to view deployed application on github pages](https://brondchux.github.io/hw6-weather-dashboard/)
+1. 🗂 [Click me to view github repository for this project](https://github.com/Brondchux/hw7-readme-generator/)
+2. 🌍 [Click me to view deployed application on github pages](https://brondchux.github.io/hw7-readme-generator/)
 
 ---
 
