@@ -64,11 +64,9 @@ THEN I am taken to the corresponding section of the README
 
 ## Mock-Up Preview
 
-The following video clip shows the web application's appearance and functionality:
+The following image shows the web application's appearance and functionality:
 
-COMING SOON!
-
-<!-- ![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for Atlanta.](./assets/images/weather-dashboard-demo.png) -->
+![The readme app receives series of inputs, selections and generates a readme.md file for the user or developer. Attached is a screenshot of what the finished product looks like.](./assets/images/readme-generator-demo.png)
 
 ---
 
