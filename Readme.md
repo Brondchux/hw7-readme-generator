@@ -91,8 +91,6 @@ Appreciations to Ben 🙌🏾 of [Columbia University Coding Bootcamp](https://b
 
 Special thanks to [Google](https://www.google.com) for helping me find the accurate answers to my questions in a very timely manner.
 
-Thanks to [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) for making this Server side API free and available to us!
-
 ---
 
 ## Licence
