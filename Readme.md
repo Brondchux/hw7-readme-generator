@@ -16,7 +16,7 @@ Receiving inputs from the user (developer), this project should automatically ge
 6. [Useful Links](https://github.com/Brondchux/hw7-readme-generator#useful-links)
 7. [Tech Stack](https://github.com/Brondchux/hw7-readme-generator#tech-stack)
 8. [Credits](https://github.com/Brondchux/hw7-readme-generator#credits)
-9. [Licence](https://github.com/Brondchux/hw7-readme-generator#licence)
+9. [License](https://github.com/Brondchux/hw7-readme-generator#license)
 
 ---
 
@@ -91,8 +91,12 @@ Appreciations to Ben 🙌🏾 of [Columbia University Coding Bootcamp](https://b
 
 Special thanks to [Google](https://www.google.com) for helping me find the accurate answers to my questions in a very timely manner.
 
+Thanks to Lukas-h repo on shields and badges:
+
+[![lukas-h](https://img.shields.io/badge/lukas_h-license_badges.md-red)](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
+
 ---
 
-## Licence
+## License
 
-MIT
+[![LICENSE](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
