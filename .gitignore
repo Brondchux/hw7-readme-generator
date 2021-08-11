@@ -1,3 +1,2 @@
-/node_modules
-/package-lock.json
-/assets/docs/Readme.md
+node_modules
+package-lock.json
